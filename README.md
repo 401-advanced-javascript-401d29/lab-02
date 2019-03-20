@@ -3,13 +3,13 @@
 ## Classes, Inheritance, and Functional Programming
 
 ## Node Ecosystem
-[![Build Status](https://www.travis-ci.com/etrainor/401-javascript-lab02.svg?branch=master)](https://www.travis-ci.com/etrainor/401-javascript-lab02)
+[![Build Status](https://travis-ci.com/401-advanced-javascript-401d29/lab-02.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-401d29/lab-02)
 
 ### Author: Erin Trainor
 
 ### Links and Resources
 * [repo](https://github.com/401-advanced-javascript-401d29/lab-02)
-* [travis](https://www.travis-ci.com/etrainor/401-javascript-lab02)
+* [travis](https://travis-ci.com/401-advanced-javascript-401d29/lab-02)
 
 ### Modules
 #### `vehicle-constructor.js`
